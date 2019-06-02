@@ -141,14 +141,14 @@ const markdownOptions: DropdownOption[] = [
 ];
 
 const imageLightOptions: DropdownOption[] = [
-    { text: 'Now', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
+    { text: 'Best Rehabs', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
     { text: 'ZEIT', value: 'https://assets.zeit.co/image/upload/front/assets/design/zeit-black-triangle.svg' },
     { text: 'Next.js', value: 'https://assets.zeit.co/image/upload/front/assets/design/nextjs-black-logo.svg' },
     { text: 'Hyper', value: 'https://assets.zeit.co/image/upload/front/assets/design/hyper-color-logo.svg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
-    { text: 'Now', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
+    { text: 'Best Rehabs', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
     { text: 'ZEIT', value: 'https://assets.zeit.co/image/upload/front/assets/design/zeit-white-triangle.svg' },
     { text: 'Next.js', value: 'https://assets.zeit.co/image/upload/front/assets/design/nextjs-white-logo.svg' },
     { text: 'Hyper', value: 'https://assets.zeit.co/image/upload/front/assets/design/hyper-bw-logo.svg' },
