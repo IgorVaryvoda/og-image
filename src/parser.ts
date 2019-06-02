@@ -44,10 +44,10 @@ function getArray(stringOrArray: string[] | string): string[] {
 }
 
 function getDefaultImages(images: string[], theme: Theme): string[] {
-    if (images.length > 0 && images[0] && images[0].startsWith('https://assets.zeit.co/image/upload/front/assets/design/')) {
+    if (images.length > 0 && images[0]) {
         return images;
     }
     return theme === 'light'
-    ? ['https://assets.zeit.co/image/upload/front/assets/design/now-black.svg']
-    : ['https://assets.zeit.co/image/upload/front/assets/design/now-white.svg'];
+    ? ['https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png']
+    : ['https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png'];
 }

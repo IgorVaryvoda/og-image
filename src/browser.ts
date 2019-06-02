@@ -143,13 +143,13 @@ const markdownOptions: DropdownOption[] = [
 const imageLightOptions: DropdownOption[] = [
     { text: 'Best Rehabs', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
     { text: 'Sirv', value: 'https://sirv-cdn.sirv.com/website/img/sirv-logo.svg' },
-    { text: 'Magic Toolbox', value: 'https://magictoolbox.sirv.com/site/magictoolbox-logo-white.png?filter=Box&png.optimize=1&scale.width=186' },
+    { text: 'Magic Toolbox', value: 'https://magictoolbox.sirv.com/site/magictoolbox-logo-dark.png' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
-    { text: 'Best Rehabs', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
-    { text: 'Sirv', value: 'https://sirv-cdn.sirv.com/website/img/sirv-logo.svg' },
-    { text: 'Magic Toolbox', value: 'https://magictoolbox.sirv.com/site/magictoolbox-logo-white.png?filter=Box&png.optimize=1&scale.width=186' },
+    { text: 'Best Rehabs', value: 'https://bestrehabs.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
+    { text: 'Sirv', value: 'https://sirv.sirv.com/website/img/sirv-logo.svg' },
+    { text: 'Magic Toolbox', value: 'https://magictoolbox.sirv.com/site/magictoolbox-logo-white.png' },
 ];
 
 const widthOptions = [
