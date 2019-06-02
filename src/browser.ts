@@ -142,16 +142,14 @@ const markdownOptions: DropdownOption[] = [
 
 const imageLightOptions: DropdownOption[] = [
     { text: 'Best Rehabs', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
-    { text: 'ZEIT', value: 'https://assets.zeit.co/image/upload/front/assets/design/zeit-black-triangle.svg' },
-    { text: 'Next.js', value: 'https://assets.zeit.co/image/upload/front/assets/design/nextjs-black-logo.svg' },
-    { text: 'Hyper', value: 'https://assets.zeit.co/image/upload/front/assets/design/hyper-color-logo.svg' },
+    { text: 'Sirv', value: 'https://sirv-cdn.sirv.com/website/img/sirv-logo.svg' },
+    { text: 'Magic Toolbox', value: 'https://magictoolbox.sirv.com/site/magictoolbox-logo-white.png?filter=Box&png.optimize=1&scale.width=186' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
     { text: 'Best Rehabs', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
-    { text: 'ZEIT', value: 'https://assets.zeit.co/image/upload/front/assets/design/zeit-white-triangle.svg' },
-    { text: 'Next.js', value: 'https://assets.zeit.co/image/upload/front/assets/design/nextjs-white-logo.svg' },
-    { text: 'Hyper', value: 'https://assets.zeit.co/image/upload/front/assets/design/hyper-bw-logo.svg' },
+    { text: 'Sirv', value: 'https://sirv-cdn.sirv.com/website/img/sirv-logo.svg' },
+    { text: 'Magic Toolbox', value: 'https://magictoolbox.sirv.com/site/magictoolbox-logo-white.png?filter=Box&png.optimize=1&scale.width=186' },
 ];
 
 const widthOptions = [
