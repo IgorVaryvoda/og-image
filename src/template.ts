@@ -101,7 +101,6 @@ function getCss(theme: string, fontSize: string) {
         line-height: 1.8;
     }`;
 }
-
 export function getHtml(parsedReq: ParsedRequest) {
     const { text, theme, md, fontSize, images, widths, heights } = parsedReq;
     return `<!DOCTYPE html>

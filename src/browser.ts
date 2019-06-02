@@ -143,7 +143,7 @@ const markdownOptions: DropdownOption[] = [
 const imageLightOptions: DropdownOption[] = [
     { text: 'Best Rehabs', value: 'https://bestrehabs-cdn.sirv.com/WP_best-rehabs.com/2018/10/cropped-favicon-2.png' },
     { text: 'Sirv', value: 'https://sirv-cdn.sirv.com/website/img/sirv-logo.svg' },
-    { text: 'Magic Toolbox', value: 'https://magictoolbox.sirv.com/site/magictoolbox-logo-dark.png' },
+    { text: 'Magic Toolbox', value: 'https://magictoolbox.sirv.com/images/logos/magic_toolbox_star.svg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
